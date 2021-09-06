@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Promedio con Decision",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06PromedioConDecision",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Alterna Caracteres con Contador",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10AlternaCaracteresContador",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Número cuadrado mayor que",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/17NCuadradoMayor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Triángulo Asteríscos",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/25TrianguloAsteriscos",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Secuencia Fibonacci",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/28Fibonacci",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    }
+  ]
+}
