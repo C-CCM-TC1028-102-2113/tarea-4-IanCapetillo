@@ -13,7 +13,7 @@
     {
       "name": "Alterna Caracteres con Contador",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest assignments/10AlternaCaracteresContador",
+      "run": "pytest assignments/10.1AlternaCaracteresContador",
       "input": "",
       "output": "",
       "comparison": "included",
